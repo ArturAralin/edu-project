@@ -1,0 +1,6 @@
+{
+  "name": "lib-common-types",
+  "version": "1.0.0",
+  "main": "lib.ts",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "edu-project",
+  "version": "1.0.0",
+  "description": "Just an educational project",
+  "author": "Artur Aralin <artur.aralin97@gmail.com>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "MIT",
+  "private": true
+}
